@@ -1,9 +1,9 @@
-### Welcome to Loca.Fi 🚀
+## Welcome to Loca.Fi 🚀
 
 A pioneering Layer 2 blockchain initiative, Loca.Fi is propelling industry transformation through decentralized solutions. 
 Leveraging advanced Layer 2 technology, Loca.Fi enhances scalability, efficiency, transparency, and security for users.
 
-### Our Vision 🚀
+## Our Vision 🚀
 
 At Loca.Fi, our commitment goes beyond innovation; it's about ensuring user confidentiality alongside industry revolution. 
 We envision a future where confidentiality seamlessly integrates with technological progress within our scalable blockchain ecosystem.
